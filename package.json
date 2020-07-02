@@ -1,0 +1,16 @@
+{
+  "name": "azure-test-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Roman Akhromieiev <qpbd@ukr.net>",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "3.38.0"
+  }
+}
